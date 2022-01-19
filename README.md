@@ -2,7 +2,6 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/platform-IOS-blue" />
-    <img src="https://img.shields.io/badge/iOS-15-blue" />
     <img src="https://img.shields.io/badge/framework-SwiftUI-blue" />
 </p>
 
