@@ -13,4 +13,4 @@ LazyVGrid does not have a column span feature. This tutorial demonstrate how we 
 
 More impossibles grids you may find [here](https://swiftui-lab.com/impossible-grids).
 
-👨🏻‍💻 Subscribe to my channel **[SwiftUI dev](https://t.me/swiftui_dev)** in telegram.
+👨🏻‍💻 Feel free to subscribe to channel **[SwiftUI dev](https://t.me/swiftui_dev)** in telegram.
