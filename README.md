@@ -1,9 +1,7 @@
 # Working with SwiftUI grids
 
-<p align="center">
-    <img src="https://img.shields.io/badge/platform-IOS-blue" />
-    <img src="https://img.shields.io/badge/framework-SwiftUI-blue" />
-</p>
+[![contact: @lexkraev](https://img.shields.io/badge/contact-%40lexkraev-blue.svg?style=flat)](https://t.me/lexkraev)
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fswiftui_dev)](https://telegram.dog/swiftui_dev)
 
 LazyVGrid does not have a column span feature. This tutorial demonstrate how we could implement it this easily.
 
